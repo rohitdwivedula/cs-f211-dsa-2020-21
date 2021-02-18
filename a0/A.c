@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int main(){
 	char n1[1002], n2[1002], n3[1002];
