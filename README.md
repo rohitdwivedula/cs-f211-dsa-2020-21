@@ -3,13 +3,15 @@ This repository contains the problems, solution approaches & explanations and (f
 
 # Solution Availability
 
+C code for these questions is currently available:
+
 | Assignment   | A | B | C | D | E | F | G | H | I | J |
 |--------------|-|-|-|-|-|-|-|-|-|-|
 | A0 | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | A1 | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | A2 | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :heavy_check_mark: |
 
-Feel free to contribute solutions for missing problems by starting a pull request. 
+If a problem doesn't have a solution so far (cross), or you feel that you can improve the current solution, please feel free to either (1) raise an issue (2) start a pull request with your changes or (3) contact a TA. 
 
 # Contributors
 Your name will be listed here if you contribute a solution.
