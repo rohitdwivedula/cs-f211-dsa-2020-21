@@ -3,11 +3,11 @@ This repository contains the problems, solution approaches & explanations and (f
 
 # Solution Availability
 
-| Assignment   | A                  | B                 | C                 | D                 | E                 | F                 | G                 | H                 | I                 | J                 |
-|--------------|--------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
-| A0           | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
-| A1           |                    |                   |                   |                   |                   |                   |                   |                   |                   |                   |
-| A2           |                    |                   |                   |                   |                   |                   |                   |                   |                   |                   |
+| Assignment   | A | B | C | D | E | F | G | H | I | J |
+|--------------|-|-|-|-|-|-|-|-|-|-|
+| A0 | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
+| A1 | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| A2 | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :heavy_check_mark: |
 
 Feel free to contribute solutions for missing problems by starting a pull request. 
 
