@@ -5,7 +5,7 @@ This repository contains the problems, solution approaches & explanations and (f
 
 | Assignment   | A                  | B                 | C                 | D                 | E                 | F                 | G                 | H                 | I                 | J                 |
 |--------------|--------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|
-| A0           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| A0           | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | A1           |                    |                   |                   |                   |                   |                   |                   |                   |                   |                   |
 | A2           |                    |                   |                   |                   |                   |                   |                   |                   |                   |                   |
 
