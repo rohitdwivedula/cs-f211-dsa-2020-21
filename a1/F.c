@@ -1,5 +1,11 @@
 #include<stdio.h>
 
+/**The program can be done fairly easily in a brute force method.
+ * Just check for a prime first (complexity O(n)),
+ * and then increment each digit into a number array.
+ * Total complexity = O(B^2)
+ * **/
+
 int prime(int n){
     for(int i = 2; i < n; i++){
         if(n%i==0)

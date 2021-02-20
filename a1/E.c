@@ -2,6 +2,21 @@
 #include<stdlib.h>
 #include<string.h>
 
+/** This is quite a long but easy problem.
+ * Simply implement the doubly linked list used in 1B and define the following
+ * functions:
+ * LR:
+ * Keep a temporary value for the head and left shift using pt->val = pt->next->val.
+ * Then replace the last value with the head.
+ * LS:
+ * Just do LR, but now you can ignore the last line, i.e, call LR and replace the tail with 0.
+ * You can do RR:, RS: the same exact ways but in the reverse direction.
+ * INC:
+ * you need to make sure you are carrying so these will be recursive functions.
+ * if the last digit is 1, make it 0 and start INC again at the digit to the left.
+ * DEC: is done the same way but with 0 instead of 1.
+ * **/
+
 struct reg{
     char val;
     struct reg *prev;
