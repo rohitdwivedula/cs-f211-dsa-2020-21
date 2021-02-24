@@ -24,3 +24,9 @@ If a problem doesn't have a solution so far (cross), or you feel that you can im
 
 # Contributors
 Your name will be listed here if you contribute a solution.
+
+* [Prakhar Agarwal - PrAkHaR-BitsPilani](https://github.com/PrAkHaR-BitsPilani): A1{A,D,E,F,H}, A2{A,E,H,I}
+* [Chandra Vamsi - tvcv901](https://github.com/tvcv901): A2{B,E,H}
+* [Saloni Singh - saloni-singh14](https://github.com/saloni-singh14): A2{B,C,D}
+* [Aditya Chopra - adichopra11](https://github.com/adichopra11): A2{B,H,I}
+* [Subienay Ganesh - SubsTheTechnomancer](https://github.com/SubsTheTechnomancer): A1{A,D,E,F,H}, A2{A,B,C} 
