@@ -32,4 +32,4 @@ Your name will be listed here if you contribute a solution.
 * [Chandra Vamsi - tvcv901](https://github.com/tvcv901): A2{B,E,H}, A3{C}
 * [Saloni Singh - saloni-singh14](https://github.com/saloni-singh14): A2{B,C,D}
 * [Aditya Chopra - adichopra11](https://github.com/adichopra11): A2{B,H,I}
-* [Subienay Ganesh - SubsTheTechnomancer](https://github.com/SubsTheTechnomancer): A1{A,D,E,F,H}, A2{A,B,C} 
+* [Subienay Ganesh - SubsTheTechnomancer](https://github.com/SubsTheTechnomancer): A1{A,D,E,F,H}, A2{A,B,C,F} 
