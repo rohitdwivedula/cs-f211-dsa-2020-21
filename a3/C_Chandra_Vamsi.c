@@ -5,10 +5,26 @@
 
 long long n, m, x[N];
 
+int binary_search();
+int checkValid(int num);
+
 int cmp (const void *a, const void *b)
 {
 	if (*(long long*)a > *(long long*)b) return 1;
 	if (*(long long*)a < *(long long*)b) return -1;
+	return 0;
+}
+
+int main()
+{
+	scanf("%lld%lld", &n, &m);
+	for (int i = 0; i < m; i++)
+		scanf("%lld", &x[i]);
+
+	qsort(x, m, sizeof(long long), cmp);
+
+	printf("%d", binary_search());
+
 	return 0;
 }
 
@@ -39,18 +55,5 @@ int checkValid(int num)
 	}
 	if (cnt >= n)
 		return 1;
-	return 0;
-}
-
-int main()
-{
-	scanf("%lld%lld", &n, &m);
-	for (int i = 0; i < m; i++)
-		scanf("%lld", &x[i]);
-
-	qsort(x, m, sizeof(long long), cmp);
-
-	printf("%d", binary_search());
-
 	return 0;
 }
