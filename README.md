@@ -17,17 +17,19 @@ C code for these questions is currently available:
 |--------------|-|-|-|-|-|-|-|-|-|-|
 | A0 | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: |
 | A1 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| A2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| A3 | :x: | :x: | :x: | :x: | :heavy_check_mark: | :x: | :x: | :x: | :x: | :x: |
+| A2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| A3 | :heavy_check_mark: |  :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 
 If a problem doesn't have a solution so far (cross), or you feel that you can improve the current solution, please feel free to either (1) raise an issue (2) start a pull request with your changes or (3) contact a TA. 
 
 # Contributors
 Your name will be listed here if you contribute a solution.
 
+* [Prathmesh Srivastava - prathonit](https://github.com/prathonit): A3{A,B,C,E,F}
+* [Omkar Pitale - CyberKnight1803](https://github.com/CyberKnight1803): A3{A,B,D,E,F,G,H,I,J}
 * [Kevin Biju - heavycrystal](https://github.com/heavycrystal): A2{G}, A3{E}
-* [Prakhar Agarwal - PrAkHaR-BitsPilani](https://github.com/PrAkHaR-BitsPilani): A1{A,D,E,F,H}, A2{A,E,H,I}
-* [Chandra Vamsi - tvcv901](https://github.com/tvcv901): A2{B,E,H}
+* [Prakhar Agarwal - PrAkHaR-BitsPilani](https://github.com/PrAkHaR-BitsPilani): A1{A,D,E,F,H}, A2{A,E,F,H,I}, A3{A,C,D,J}
+* [Chandra Vamsi - tvcv901](https://github.com/tvcv901): A2{B,E,H}, A3{C}
 * [Saloni Singh - saloni-singh14](https://github.com/saloni-singh14): A2{B,C,D}
 * [Aditya Chopra - adichopra11](https://github.com/adichopra11): A2{B,H,I}
-* [Subienay Ganesh - SubsTheTechnomancer](https://github.com/SubsTheTechnomancer): A1{A,D,E,F,H}, A2{A,B,C} 
+* [Subienay Ganesh - SubsTheTechnomancer](https://github.com/SubsTheTechnomancer): A1{A,D,E,F,H}, A2{A,B,C,F} 
