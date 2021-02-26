@@ -7,7 +7,7 @@ When submitting a pull request please make sure your file name is in the format 
 
 Ex: F_pranav_reddy.c or F_pranavreddy.c
 
-Please make sure that your code passes all possible test cases to the best of your ability. Refrain from posting solutions that you know are wrong. Also make sure that you are putting the solution in the correct assignment folder to avoid future confusion. **We are currently accepting PRs for Assignments 1, 2 and 3 only**. If a certain question already has answers, please try to add another solution only if you believe your approach is significantly different/unique/more understandable. 
+Please make sure that your code passes all possible test cases to the best of your ability. Refrain from posting solutions that you know are wrong. Also make sure that you are putting the solution in the correct assignment folder to avoid future confusion. **We are currently accepting PRs for Assignments 1, 2, 3 and 4 only**. If a certain question already has answers, please try to add another solution only if you believe your approach is significantly different/unique/more understandable. 
 
 # Solution Availability
 
