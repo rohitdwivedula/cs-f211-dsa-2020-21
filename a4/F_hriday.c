@@ -29,14 +29,14 @@ int main() {
 
         for(i = j = 0; i < n; i = j) {
             if(left == right) {
-                printf("YES");
+                printf("YES\n");
                 goto next;
             }
             while(j < n && points[j].y == points[i].y)
                 left += points[j].p, right -= points[j].p, j++;
         }
 
-        printf("NO");
+        printf("NO\n");
         next: ;
     }
 }
