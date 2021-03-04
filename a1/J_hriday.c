@@ -8,6 +8,8 @@
     since there can be atmost n-1 merges
 **/
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 #define swap(x, y) _ = x, x = y, y = _
 #define N 505
 int _, par[N], val[N];
