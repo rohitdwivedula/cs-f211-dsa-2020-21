@@ -5,6 +5,7 @@
  * Time complexity: O(nlogn)
 **/
 #include <stdio.h>
+#include <stdlib.h>
 #define N 100005
 
 typedef struct {
