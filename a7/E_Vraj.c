@@ -10,14 +10,13 @@ int main(){
     int q=0;
     int query[N];
     int j=0;
-    int *a = malloc(sizeof(int)*1000000001);
+    int c=0;
     int max=0;
-    for(int i=0;i<=100000001;i++)a[i]=0;
     for(int i=0;i<N-1;i++){
         char s[6];
         int t=0;
         scanf("%s %d",s,&t);
-        if(s[0]=='a'){   
+        if(s[0]=='a'){
             d[j++]=t;
         }
         else if(s[0]=='d'){
@@ -27,7 +26,6 @@ int main(){
                     break;
                 }
             }
-            //a[t]--;
         } else {
             int h=0;
             for(int k=0;k<j;k++){
