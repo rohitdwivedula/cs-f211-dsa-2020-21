@@ -9,7 +9,7 @@
 #include <string.h>
 #define N 500005
 #define A 26
-int t[N][A];
+int t[N][A], cnt[N];
 char s[N];
 
 int main() {
@@ -19,16 +19,15 @@ int main() {
         scanf("%d", &n);
         for(int i = 0, j, p; p = 0, i < n; i++, prvc = s[j-1]) {
             scanf(" %s", s);
-            if(i && s[0] ^ prvc)
-                itsover = 1;
+            itsover |= i && s[0] ^ prvc;
             if(itsover) continue;
-            int prvsz = sz;
             for(j = 0; s[j]; j++)
                 p = t[p][s[j]-'a'] = t[p][s[j]-'a']? t[p][s[j]-'a'] : sz++;
-            if(prvsz == sz)
-                itsover = 1;
+            if(cnt[p]++) itsover = 1;
             else win ^= 1;
-        } memset(t, 0, sz * A * sizeof **t);
+        }
+        memset(t, 0, sz * A * sizeof **t);
+        memset(cnt, 0, sz * sizeof *cnt);
         printf("%s ", win? "Alice" : "Bob");
     }
 }
