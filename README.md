@@ -23,8 +23,8 @@ C code for these questions is currently available:
 | a5 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :grey_question: |
 | a6 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | a7 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :grey_question: | :heavy_check_mark: |
-| a8 | :grey_question: | :grey_question: | :grey_question: | :grey_question: | :grey_question: | :grey_question: | :grey_question: | :grey_question: | :grey_question: | :grey_question: |
-| a9 | :grey_question: | :grey_question: | :grey_question: | :grey_question: | :grey_question: | :grey_question: | :grey_question: | :grey_question: | :grey_question: | :grey_question: |
+| a8 | :heavy_check_mark: | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: | :grey_question: |
+| a9 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :grey_question: | :heavy_check_mark: | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
 | a10 | :grey_question: | :grey_question: | :grey_question: | :grey_question: | :grey_question: | :grey_question: | :grey_question: | :grey_question: | :grey_question: | :grey_question: |
 
 If a problem doesn't have a solution so far (cross), or you feel that you can improve the current solution, please feel free to either (1) raise an issue (2) start a pull request with your changes or (3) contact a TA. 
@@ -175,5 +175,9 @@ Your name will be listed here if you contribute a solution.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   a6: {<a href="a6/H_hriday.c">H</a>} <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  a7: {<a href="a7/E_hriday.c">E</a>, <a href="a7/F_hriday.c">F</a>}
+  a7: {<a href="a7/E_hriday.c">E</a>, <a href="a7/F_hriday.c">F</a>} <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  a8: {<a href="a8/A_hriday.c">A</a>, <a href="a8/D_hriday.c">D</a>, <a href="a8/H_hriday.c">H</a>} <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  a9: {<a href="a9/A_hriday.c">A</a>, <a href="a9/B_hriday.c">B</a>, <a href="a9/C_hriday.c">C</a>, <a href="a9/D_hriday.c">D</a>, <a href="a9/E_hriday.c">E</a>, <a href="a9/G_hriday.c">G</a>, <a href="a9/I_hriday.c">I</a>, <a href="a9/J_hriday.c">J</a>}
 </details>
